@@ -27,7 +27,7 @@ const Login = () => {
           <Form.Control type="password" placeholder="Password" />
         </FloatingLabel>
         {/* Botão para enviar o formulário */}
-        <Button variant="primary" className="mt-4">Entrar</Button>
+        <Button variant="light" className="mt-4">Entrar</Button>
       </Container>
     </div>
   );
